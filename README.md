@@ -1,85 +1,63 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Kshitij+%7C+Data+Scientist;ML+Engineer+%7C+Python+Developer;Placement+Season+Active)](https://git.io/typing-svg)
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="300px" align="center" valign="middle" style="border: none;">
+      <br />
+      <!-- Linked directly to your uploaded file -->
+      <img src="asciify.jpg" width="280px" style="border-radius: 6px;" alt="Kshitij ASCII Portrait" />
+    </td>
+    <td valign="top" align="left" style="border: none;">
+      <pre>
+<b>kshitij@datascience</b>
+----------------------------------------------------------------------
+<b>OS</b> ................... Windows 11 x86_64
+<b>Role</b> ................. Data Science & Machine Learning Enthusiast
+<b>Education</b> ............ BCA Student @ GGDSD College (CGPA: 7.52)[cite: 1]
+<b>Location</b> ............. Chandigarh, Punjab, India[cite: 1]
+
+<b>Languages.Programming</b>  Python, SQL, C++, C#[cite: 1]
+<b>Libraries.DataScience</b>  Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
+<b>Tools.Developer</b> ...... VS Code, Git, GitHub, Jupyter, Unity[cite: 1]
+<b>Core.Focus</b> ........... ML Models, Exploratory Data Analysis, Automation[cite: 1]
+
+<b>Contact & Socials</b> ---------------------------------------------------
+<b>Email</b> ................ kshitijgupta290106@gmail.com[cite: 1]
+<b>LinkedIn</b> ............. linkedin.com/in/kshitij-data-ml/[cite: 1]
+<b>GitHub</b> ............... github.com/kshitij-datascience
+<b>Hobbies</b> .............. Strategic Gaming, Content Creation
+
+<b>GitHub Overview</b> -----------------------------------------------------
+<b>Repos</b>: 5 | <b>Focus</b>: Python, Data Science, Machine Learning & Analytics
+      </pre>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td width="45%" align="center" valign="top">
+### 🛠️ Technical Stack
 
-![Kshitij ASCII Art](asciify.png)
-
-    </td>
-    <td width="55%" valign="top">
-
-## Kshitij
-**@kshitij-datascience · he/him**
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `SQL` `C++` `C#`[cite: 1] |
+| **Data Science & ML** | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn` |
+| **Tools & Platforms** | `VS Code` `Git` `GitHub` `Jupyter` `Unity`[cite: 1] |
+| **Methodologies** | `Machine Learning` `Exploratory Data Analysis` `Workflow Automation`[cite: 1] |
 
 ---
 
-### 📍 Location
-Chandigarh, Punjab 🇮🇳
+### 🚀 Featured Projects
 
-### 📧 Email
-kshitijgupta290106@gmail.com
-
-### 🎓 Education
-**BCA Student** | GGDSD College, Bathinda  
-Expected: June 2027
+* 🤖 **[JARVIS - Voice Assistant](https://github.com/kshitij-datascience/Jarvis):** Custom Python API integration layer for low-latency speech processing and task automation[cite: 1].
+* 💬 **[AI Auto Reply Chat Bot](https://github.com/kshitij-datascience/Ai-Auto-Reply-Chat-Bot):** Automated conversational workflow system engineered with Python, Cohere LLM API, and PyAutoGUI[cite: 1].
 
 ---
 
-### 🔥 Core Skills
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-85%25-00d9ff?style=flat)
-![SQL](https://img.shields.io/badge/SQL-70%25-fbbf24?style=flat)
-![ML](https://img.shields.io/badge/Machine%20Learning-85%25-00d9ff?style=flat)
+![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-datascience&show_icons=true&theme=dark&hide_border=true)
 
-**Languages:** Python, C#, SQL, Dart  
-**ML Libraries:** Pandas, NumPy, Scikit-Learn  
-**Tools:** Jupyter, Git, VS Code, Linux
-
----
-
-### 🏆 Certifications
-
-![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Completed-00d9ff?style=flat-square)
-![Tata](https://img.shields.io/badge/Tata%20GenAI-Completed-fbbf24?style=flat-square)
-![SarvPrem](https://img.shields.io/badge/SarvPrem-Active-00d9ff?style=flat-square)
-
----
-
-### 💼 Status
-**Mode:** Placement Season - ACTIVE  
-**Target:** Data Scientist, ML Engineer  
-**Salary:** ₹8-10 LPA (Starting)
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 📂 Projects
-
-| Project | Tech | Status |
-|:---|:---|:---|
-| Jarvis Voice Assistant | Python, NLP | In Development |
-| SarvPrem Portal | Flutter, Dart | Active |
-| Data Analytics | Python, Pandas | Building |
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-datascience&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24&icon_color=fbbf24)](https://github.com/kshitij-datascience)
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kshitij--data--ml-00d9ff?style=flat-square)](https://linkedin.com/in/kshitij-data-ml)
-[![GitHub](https://img.shields.io/badge/GitHub-kshitij--datascience-fbbf24?style=flat-square)](https://github.com/kshitij-datascience)
+</div>
