@@ -1,22 +1,10 @@
-# <div align="center">
+# 🎯 KSHITIJ | DATA SCIENTIST & ML ENGINEER
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║           🎯 KSHITIJ | DATA SCIENTIST & ML ENGINEER 🎯               ║
-║                                                                       ║
-║                  [ HACKER AESTHETIC ENABLED ]                         ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00D9FF&width=500&lines=Data+Scientist+%7C+ML+Engineer+;Python+%7C+Data+Science+%7C+AI;Placement+Mode%3A+ACTIVE)
 
 ---
 
-<div align="center">
-
-## <span style="color: #00d9ff">**[ >>> FACE SIGNATURE ]**</span>
+## 👤 ASCII FACE SIGNATURE
 
 ```
 .....................    .--=**#####*+==-:.    .......................
@@ -75,266 +63,163 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ```
 
-### <span style="color: #fbbf24">**[ KShitij | Face Encoded in ASCII ]**</span>
-
-</div>
+*Your face, encoded in ones and zeros.* ⚡
 
 ---
 
-## <span style="color: #00d9ff">**[ >> ] SYSTEM INITIALIZED**</span>
+## 📊 SYSTEM STATUS
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║  Name:       Kshitij Gupta                                          ║
-║  Title:      Data Scientist & ML Engineer                           ║
-║  Status:     Final Year BCA (GGDSD College, Bathinda)               ║
-║  Graduation: 2027                                                    ║
-║  Location:   Bathinda, Punjab 🇮🇳                                   ║
-║  Mode:       PLACEMENT SEASON - ACTIVE LEARNING                    ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+Name:        Kshitij Gupta
+Title:       Data Scientist & ML Engineer
+Status:      Final Year BCA Student (GGDSD College, Bathinda)
+Graduation:  2027
+Location:    Chandigarh, Punjab 🇮🇳
+Mode:        PLACEMENT SEASON - ACTIVE
 ```
 
 ---
 
-## <span style="color: #fbbf24">**[ >> ] CORE SKILLS MATRIX**</span>
+## 💻 TECH STACK MASTERY
 
-<table>
-  <tr>
-    <td width="50%">
-
+### 🐍 Programming Languages
 ```
-🐍 PROGRAMMING LANGUAGES
-━━━━━━━━━━━━━━━━━━━━━━━
-
-Python         ████████░ 85%
-C#             ███████░░ 75%
-SQL            ██████░░░ 70%
-Dart/Flutter   █████░░░░ 50%
-JavaScript     ████░░░░░ 40%
+Python        ████████░░ 85%
+C#            ███████░░░ 75%
+SQL           ██████░░░░ 70%
+Dart/Flutter  █████░░░░░ 50%
+JavaScript    ████░░░░░░ 40%
 ```
 
-    </td>
-    <td width="50%">
-
+### 📊 Data Science & ML
 ```
-📊 DATA SCIENCE STACK
-━━━━━━━━━━━━━━━━━━━━
-
-Pandas         ████████░ 85%
-NumPy          ████████░ 85%
-Scikit-Learn   ████████░ 85%
-TensorFlow     ██████░░░ 70%
-Matplotlib     █████████ 90%
+Pandas        ████████░░ 85%
+NumPy         ████████░░ 85%
+Scikit-Learn  ████████░░ 85%
+TensorFlow    ██████░░░░ 70%
+Matplotlib    █████████░ 90%
 ```
 
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
-
+### 🤖 ML & Analytics
 ```
-🤖 ML/AI EXPERTISE
-━━━━━━━━━━━━━━━━━
-
-Supervised ML  ████████░ 80%
-Regression     ███████░░ 75%
-Classification ████████░ 85%
-Feature Eng.   ██████░░░ 70%
-Data Analysis  ████████░ 85%
+Supervised ML ████████░░ 80%
+Regression    ███████░░░ 75%
+Classification ████████░░ 85%
+Feature Eng.  ██████░░░░ 70%
+Data Analysis ████████░░ 85%
 ```
 
-    </td>
-    <td width="50%">
-
+### 🛠️ Tools & Platforms
 ```
-🛠️  TOOLS & PLATFORMS
-━━━━━━━━━━━━━━━━━
-
-Jupyter/Colab  █████████ 90%
-Git/GitHub     █████████ 95%
-VS Code        █████████ 95%
-Linux/Bash     ████████░ 85%
-PostgreSQL     ███████░░ 75%
-```
-
-    </td>
-  </tr>
-</table>
-
----
-
-## <span style="color: #00d9ff">**[ >> ] CREDENTIALS UNLOCKED**</span>
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║ 🏆 IBM SKILLSBUILD CERTIFICATION                                 ║
-║    ├─ AI/ML Internship (6 weeks)                                  ║
-║    ├─ Organized by: Edunet Foundation + AICTE + IBM              ║
-║    └─ Status: ✅ COMPLETED                                        ║
-║                                                                    ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║ 🏆 TATA GROUP GENAI ANALYTICS SIMULATION                         ║
-║    ├─ Advanced Analytics & AI Implementation                      ║
-║    ├─ Platform: Forage Virtual Internship                         ║
-║    └─ Status: ✅ COMPLETED                                        ║
-║                                                                    ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║ 🏆 SARVPREM FOUNDATION INTERNSHIP                                ║
-║    ├─ Data Science & Mobile App Development                      ║
-║    ├─ Project: Flutter-based Internship Portal                   ║
-║    └─ Status: ⚡ IN PROGRESS (Active)                             ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+Jupyter       █████████░ 90%
+Git/GitHub    █████████░ 95%
+VS Code       █████████░ 95%
+Linux/Bash    ████████░░ 85%
+PostgreSQL    ███████░░░ 75%
 ```
 
 ---
 
-## <span style="color: #fbbf24">**[ >> ] FEATURED PROJECTS**</span>
+## 🏆 CREDENTIALS & CERTIFICATIONS
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                  🔧 PROJECTS IN DEVELOPMENT                        ║
-║                                                                    ║
-║  Status: [████░░░░░░░░░░░░░░░░░░░░░░░░░░░] 20% Complete         ║
-║                                                                    ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║ 🎤 JARVIS VOICE ASSISTANT                                         ║
-║    ├─ Tech Stack: Python | Speech Recognition | NLP              ║
-║    ├─ Features: Voice commands, AI responses, local processing   ║
-║    └─ Status: Development Phase                                   ║
-║                                                                    ║
-║ 📱 SARVPREM INTERNSHIP PORTAL                                    ║
-║    ├─ Tech Stack: Flutter | Dart | Clean Architecture            ║
-║    ├─ Backend: Integration with PHP legacy system                ║
-║    └─ Status: Active Development                                  ║
-║                                                                    ║
-║ 📊 DATA ANALYTICS PROJECTS                                        ║
-║    ├─ Tech Stack: Python | Pandas | Scikit-learn | Visualization║
-║    ├─ Focus: Real-world datasets & predictive modeling           ║
-║    └─ Status: Portfolio Building                                  ║
-║                                                                    ║
-║ 🤖 ML IMPLEMENTATIONS                                             ║
-║    ├─ Tech Stack: TensorFlow | Advanced Algorithms               ║
-║    ├─ Focus: Custom models, feature engineering, optimization    ║
-║    └─ Status: Research & Experimentation                          ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+### ✅ IBM SkillsBuild Certification
+- **Program:** AI/ML Internship (6 weeks)
+- **Organized by:** Edunet Foundation + AICTE + IBM
+- **Status:** COMPLETED ✓
+
+### ✅ Tata GenAI Analytics Simulation
+- **Program:** Advanced Analytics & AI Implementation
+- **Platform:** Forage Virtual Internship
+- **Status:** COMPLETED ✓
+
+### ⚡ SarvPrem Foundation Internship
+- **Role:** Data Science & Mobile App Development
+- **Project:** Flutter-based Internship Portal
+- **Status:** IN PROGRESS (Active)
 
 ---
 
-## <span style="color: #00d9ff">**[ >> ] CAREER TRAJECTORY**</span>
+## 📈 FEATURED PROJECTS
 
-```
-PLACEMENT SEASON TARGETS:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> **🔨 Projects under active development** | Building portfolio with cutting-edge ML implementations
 
-Role Focus:
-  ✓ Data Scientist
-  ✓ Machine Learning Engineer
-  ✓ Analytics Engineer
-  ✓ AI/ML Specialist
+### 🎤 Jarvis Voice Assistant
+- **Tech:** Python | Speech Recognition | NLP
+- **Status:** Development Phase
+- **Features:** Voice commands, AI responses, local processing
 
-Target Companies:
-  ✓ Product-based Tech Companies
-  ✓ Fintech & Financial Services
-  ✓ GCCs (Global Capability Centers)
-  ✓ Analytics Firms
-  ✓ Big 4 Consulting
-  ✓ IT Services (Strategic Focus)
+### 📱 SarvPrem Internship Portal
+- **Tech:** Flutter | Dart | Clean Architecture
+- **Backend:** Integration with PHP legacy system
+- **Status:** Active Development
 
-Salary Expectations:
-  📈 Starting: ₹8-10 LPA (Target)
-  📈 Growth: ₹16+ LPA (5-year goal)
+### 📊 Data Analytics Projects
+- **Tech:** Python | Pandas | Scikit-learn | Visualization
+- **Focus:** Real-world datasets & predictive modeling
+- **Status:** Portfolio Building
 
-Strategic Plan:
-  ✅ Build GitHub portfolio projects
-  ✅ Master SQL & Advanced Python
-  ✅ Create end-to-end ML project
-  ✅ Develop GenAI application
-  ✅ Optimize LinkedIn presence
-  ✅ Network & Cold outreach
-```
+### 🤖 ML Models & Pipelines
+- **Tech:** TensorFlow | Advanced Algorithms | Feature Engineering
+- **Focus:** Custom models & optimization
+- **Status:** Research & Experimentation
 
 ---
 
-## <span style="color: #fbbf24">**[ >> ] CONNECT & COLLABORATE**</span>
+## 🎯 PLACEMENT SEASON TARGETS
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║  💼 PROFESSIONAL LINKS                                             ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
-║                                                                    ║
-║  LinkedIn:  linkedin.com/in/kshitij-data-ml                       ║
-║  GitHub:    github.com/kshitij-datascience                        ║
-║  Email:     kshitijgupta290106@gmail.com                          ║
-║                                                                    ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
-║                                                                    ║
-║  🚀 OPEN FOR:                                                      ║
-║     • Collaboration on ML/Data Science projects                   ║
-║     • Internship opportunities                                    ║
-║     • Placement discussions                                       ║
-║     • Technical mentorship                                        ║
-║     • Open source contributions                                   ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+### Role Focus
+- Data Scientist
+- Machine Learning Engineer
+- Analytics Engineer
+- AI/ML Specialist
+
+### Target Companies
+- Product-based Tech Companies
+- Fintech & Financial Services
+- Global Capability Centers (GCCs)
+- Analytics Firms
+- Big 4 Consulting
+- IT Services (Strategic Focus)
+
+### Salary Expectations
+- 📈 **Starting:** ₹8-10 LPA (Target)
+- 📈 **Growth:** ₹16+ LPA (5-year goal)
 
 ---
 
-## <span style="color: #00d9ff">**[ >> ] LEARNING ROADMAP**</span>
+## 🚀 LEARNING ROADMAP
 
-```
-PROGRESSION: [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 25% Complete
+### Current Phase (Q1-Q2 2025)
+- Advanced Machine Learning Techniques
+- Deep Learning & Neural Networks
+- Production ML Systems
+- SQL Window Functions & Query Optimization
+- End-to-End Data Science Projects
 
-CURRENT PHASE (Q1-Q2 2025)
-├─ Advanced Machine Learning Techniques
-├─ Deep Learning & Neural Networks
-├─ Production ML Systems
-├─ SQL Window Functions & Query Optimization
-└─ End-to-End Data Science Projects
+### Next Phase (Q2-Q3 2025)
+- NLP & Large Language Model Applications
+- Computer Vision Projects
+- MLOps & Model Deployment
+- Cloud Platforms (AWS/GCP)
+- Real-time Data Processing
 
-NEXT PHASE (Q2-Q3 2025)
-├─ NLP & Large Language Model Applications
-├─ Computer Vision Projects
-├─ MLOps & Model Deployment
-├─ Cloud Platforms (AWS/GCP basics)
-└─ Real-time Data Processing
-
-FUTURE PHASE (Q3-Q4 2025+)
-├─ Reinforcement Learning
-├─ Advanced Statistical Analysis
-├─ Research Paper Implementation
-├─ Custom Framework Development
-└─ Industry-specific Solutions
-```
+### Future Phase (Q3-Q4 2025+)
+- Reinforcement Learning
+- Advanced Statistical Analysis
+- Research Paper Implementation
+- Custom Framework Development
 
 ---
 
-## <span style="color: #fbbf24">**[ >> ] GITHUB ACTIVITY**</span>
+## 📊 GitHub Activity
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-datascience&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24&icon_color=fbbf24&hide_border=false)](https://github.com/kshitij-datascience)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-datascience&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24&icon_color=fbbf24)](https://github.com/kshitij-datascience)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-datascience&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24)](https://github.com/kshitij-datascience)
-
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-datascience&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24&hide_border=false)](https://github.com/kshitij-datascience)
 
 ---
 
-## <span style="color: #00d9ff">**[ >> ] CODE.PHILOSOPHY**</span>
+## 💡 CODE PHILOSOPHY
 
 ```
 FROM GAME DEVELOPMENT 🎮  →  TO DATA SCIENCE 📊
@@ -349,61 +234,53 @@ The fundamentals remain the same:
   ✓ Passion for innovation
 
 Different domain. Same excellence.
-
-═══════════════════════════════════════════════════════════════════
-"Code is poetry written for machines, beauty appreciated by humans"
-═══════════════════════════════════════════════════════════════════
 ```
 
 ---
 
-<div align="center">
+## 🔗 CONNECT & COLLABORATE
 
-## <span style="color: #00d9ff">**[ >> ] TERMINAL OUTPUT**</span>
+### Professional Links
+- 💼 **LinkedIn:** [linkedin.com/in/kshitij-data-ml](https://linkedin.com/in/kshitij-data-ml)
+- 🐙 **GitHub:** [github.com/kshitij-datascience](https://github.com/kshitij-datascience)
+- 📧 **Email:** kshitijgupta290106@gmail.com
 
-```
+### Open For
+- ✅ Collaboration on ML/Data Science projects
+- ✅ Internship opportunities
+- ✅ Placement discussions
+- ✅ Technical mentorship
+- ✅ Open source contributions
+
+---
+
+## 📞 QUICK COMMANDS
+
+```bash
 $ whoami
 kshitij
 
 $ status --check
 ✓ Learning     ✓ Building     ✓ Growing
 
-$ echo "Ready for collaboration & placement"
-Ready for collaboration & placement
+$ career_status
+Placement Mode: ACTIVE
+Ready for: Collaboration & Growth
 
-$ ./build_future
-Compiling dreams...
-Linking data science...
-Optimizing ML algorithms...
-✅ Build successful!
-
-$ ./ready_for_next_level
-🚀 System initialized
-⚡ Engines firing
-🎯 Targets locked
-💼 Placement mode: ACTIVE
-
+$ let's_build
+🚀 Initializing next project...
+Building ML systems with Python
 Let's ship something great together!
 ```
 
-</div>
-
 ---
 
 <div align="center">
 
-### <span style="color: #fbbf24">**[ CONNECT ]**</span> | <span style="color: #00d9ff">**[ COLLABORATE ]**</span> | <span style="color: #fbbf24">**[ CREATE ]**</span>
+### **🚀 Building tomorrow's AI today**
 
-<span style="color: #00d9ff">**🚀 Building tomorrow's AI today**</span>
+![Profile Views](https://komarev.com/ghpvc/?username=kshitij-datascience&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
+**Last Updated:** July 2025 | Always Evolving ⚡
 
----
-
-<div align="center">
-  <sub>
-    <span style="color: #00d9ff">💻 Last Updated: July 2025</span> 
-    | 
-    <span style="color: #fbbf24">⚡ Always Evolving</span>
-  </sub>
 </div>
