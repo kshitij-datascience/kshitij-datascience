@@ -1,4 +1,6 @@
-<div align="center">
+# <div align="center">
+
+```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
 ║           🎯 KSHITIJ | DATA SCIENTIST & ML ENGINEER 🎯               ║
@@ -6,10 +8,17 @@
 ║                  [ HACKER AESTHETIC ENABLED ]                         ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
+
+---
+
 <div align="center">
-<span style="color: 
-#00d9ff">[ >>> FACE SIGNATURE ]</span>
+
+## <span style="color: #00d9ff">**[ >>> FACE SIGNATURE ]**</span>
+
+```
 .....................    .--=**#####*+==-:.    .......................
 ...................  .:+*#%%%%%%%%%%%%%%%%#+=:.  .....................
 .................. .=#%@%%%%%%%%%%%%%%%%%%%%%%#=:  ...................
@@ -64,11 +73,17 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<span style="color: 
-#fbbf24">[ KShitij | Face Encoded in ASCII ]</span>
+```
+
+### <span style="color: #fbbf24">**[ KShitij | Face Encoded in ASCII ]**</span>
+
 </div>
-<span style="color: 
-#00d9ff">[ >> ] SYSTEM INITIALIZED</span>
+
+---
+
+## <span style="color: #00d9ff">**[ >> ] SYSTEM INITIALIZED**</span>
+
+```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║  Name:       Kshitij Gupta                                          ║
@@ -79,9 +94,17 @@
 ║  Mode:       PLACEMENT SEASON - ACTIVE LEARNING                    ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-<span style="color: 
-#fbbf24">[ >> ] CORE SKILLS MATRIX</span>
-<table> <tr> <td width="50%">
+```
+
+---
+
+## <span style="color: #fbbf24">**[ >> ] CORE SKILLS MATRIX**</span>
+
+<table>
+  <tr>
+    <td width="50%">
+
+```
 🐍 PROGRAMMING LANGUAGES
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -90,8 +113,12 @@ C#             ███████░░ 75%
 SQL            ██████░░░ 70%
 Dart/Flutter   █████░░░░ 50%
 JavaScript     ████░░░░░ 40%
-</td>
-<td width="50%">
+```
+
+    </td>
+    <td width="50%">
+
+```
 📊 DATA SCIENCE STACK
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -100,8 +127,17 @@ NumPy          ████████░ 85%
 Scikit-Learn   ████████░ 85%
 TensorFlow     ██████░░░ 70%
 Matplotlib     █████████ 90%
-</td>
-</tr> </table> <table> <tr> <td width="50%">
+```
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+
+```
 🤖 ML/AI EXPERTISE
 ━━━━━━━━━━━━━━━━━
 
@@ -110,8 +146,12 @@ Regression     ███████░░ 75%
 Classification ████████░ 85%
 Feature Eng.   ██████░░░ 70%
 Data Analysis  ████████░ 85%
-</td>
-<td width="50%">
+```
+
+    </td>
+    <td width="50%">
+
+```
 🛠️  TOOLS & PLATFORMS
 ━━━━━━━━━━━━━━━━━
 
@@ -120,10 +160,17 @@ Git/GitHub     █████████ 95%
 VS Code        █████████ 95%
 Linux/Bash     ████████░ 85%
 PostgreSQL     ███████░░ 75%
-</td>
-</tr> </table>
-<span style="color: 
-#00d9ff">[ >> ] CREDENTIALS UNLOCKED</span>
+```
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## <span style="color: #00d9ff">**[ >> ] CREDENTIALS UNLOCKED**</span>
+
+```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
 ║ 🏆 IBM SKILLSBUILD CERTIFICATION                                 ║
@@ -146,8 +193,13 @@ PostgreSQL     ███████░░ 75%
 ║    └─ Status: ⚡ IN PROGRESS (Active)                             ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
-<span style="color: 
-#fbbf24">[ >> ] FEATURED PROJECTS</span>
+```
+
+---
+
+## <span style="color: #fbbf24">**[ >> ] FEATURED PROJECTS**</span>
+
+```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                  🔧 PROJECTS IN DEVELOPMENT                        ║
 ║                                                                    ║
@@ -176,8 +228,13 @@ PostgreSQL     ███████░░ 75%
 ║    └─ Status: Research & Experimentation                          ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
-<span style="color: 
-#00d9ff">[ >> ] CAREER TRAJECTORY</span>
+```
+
+---
+
+## <span style="color: #00d9ff">**[ >> ] CAREER TRAJECTORY**</span>
+
+```
 PLACEMENT SEASON TARGETS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -206,8 +263,13 @@ Strategic Plan:
   ✅ Develop GenAI application
   ✅ Optimize LinkedIn presence
   ✅ Network & Cold outreach
-<span style="color: 
-#fbbf24">[ >> ] CONNECT & COLLABORATE</span>
+```
+
+---
+
+## <span style="color: #fbbf24">**[ >> ] CONNECT & COLLABORATE**</span>
+
+```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
 ║  💼 PROFESSIONAL LINKS                                             ║
@@ -227,8 +289,13 @@ Strategic Plan:
 ║     • Open source contributions                                   ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
-<span style="color: 
-#00d9ff">[ >> ] LEARNING ROADMAP</span>
+```
+
+---
+
+## <span style="color: #00d9ff">**[ >> ] LEARNING ROADMAP**</span>
+
+```
 PROGRESSION: [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 25% Complete
 
 CURRENT PHASE (Q1-Q2 2025)
@@ -251,17 +318,25 @@ FUTURE PHASE (Q3-Q4 2025+)
 ├─ Research Paper Implementation
 ├─ Custom Framework Development
 └─ Industry-specific Solutions
-<span style="color: 
-#fbbf24">[ >> ] GITHUB ACTIVITY</span>
+```
+
+---
+
+## <span style="color: #fbbf24">**[ >> ] GITHUB ACTIVITY**</span>
+
 <div align="center">
 
-Show Image
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-datascience&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24&icon_color=fbbf24)](https://github.com/kshitij-datascience)
 
-Show Image
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-datascience&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24)](https://github.com/kshitij-datascience)
 
 </div>
-<span style="color: 
-#00d9ff">[ >> ] CODE.PHILOSOPHY</span>
+
+---
+
+## <span style="color: #00d9ff">**[ >> ] CODE.PHILOSOPHY**</span>
+
+```
 FROM GAME DEVELOPMENT 🎮  →  TO DATA SCIENCE 📊
 
 Built intricate game systems with Unity + C#
@@ -278,9 +353,15 @@ Different domain. Same excellence.
 ═══════════════════════════════════════════════════════════════════
 "Code is poetry written for machines, beauty appreciated by humans"
 ═══════════════════════════════════════════════════════════════════
+```
+
+---
+
 <div align="center">
-<span style="color: 
-#00d9ff">[ >> ] TERMINAL OUTPUT</span>
+
+## <span style="color: #00d9ff">**[ >> ] TERMINAL OUTPUT**</span>
+
+```
 $ whoami
 kshitij
 
@@ -303,15 +384,26 @@ $ ./ready_for_next_level
 💼 Placement mode: ACTIVE
 
 Let's ship something great together!
+```
+
 </div>
+
+---
+
 <div align="center">
-<span style="color: 
-#fbbf24">[ CONNECT ]</span> | <span style="color: 
-#00d9ff">[ COLLABORATE ]</span> | <span style="color: 
-#fbbf24">[ CREATE ]</span>
 
-<span style="color: 
-#00d9ff">🚀 Building tomorrow's AI today</span>
+### <span style="color: #fbbf24">**[ CONNECT ]**</span> | <span style="color: #00d9ff">**[ COLLABORATE ]**</span> | <span style="color: #fbbf24">**[ CREATE ]**</span>
+
+<span style="color: #00d9ff">**🚀 Building tomorrow's AI today**</span>
 
 </div>
-<div align="center"> <sub> <span style="color: #00d9ff">💻 Last Updated: July 2025</span> | <span style="color: #fbbf24">⚡ Always Evolving</span> </sub> </div>
+
+---
+
+<div align="center">
+  <sub>
+    <span style="color: #00d9ff">💻 Last Updated: July 2025</span> 
+    | 
+    <span style="color: #fbbf24">⚡ Always Evolving</span>
+  </sub>
+</div>
