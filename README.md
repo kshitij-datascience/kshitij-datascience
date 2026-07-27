@@ -5,7 +5,7 @@
     <td width="300px" align="center" valign="middle" style="border: none;">
       <br />
       <!-- Linked directly to your uploaded file -->
-      <img src="asciify.jpg" width="280px" style="border-radius: 6px;" alt="Kshitij ASCII Portrait" />
+      <img src="asciify.png" width="280px" style="border-radius: 6px;" alt="Kshitij ASCII Portrait" />
     </td>
     <td valign="top" align="left" style="border: none;">
       <pre>
