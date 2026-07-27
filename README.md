@@ -1,46 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=3000&pause=500&color=00D9FF&width=500&lines=Kshitij+%7C+Data+Scientist;ML+Engineer+%7C+Python;Placement+Season+Active)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Kshitij+%7C+Data+Scientist;ML+Engineer+%7C+Python+Developer;Placement+Season+Active)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 <table>
   <tr>
-    <td width="38%" valign="top">
+    <td width="45%" align="center" valign="top">
 
-```
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-^^^^           ^^^^^^^         ^^^^
-^^^         ^^^       ^^^         ^^^
-^^^       ^^             ^^       ^^^
-^^^       ^^             ^^       ^^^
-^^^         ^^^       ^^^         ^^^
-^^^^           ^^^^^^^         ^^^^
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        xxxxxxxxxxxxxxxxxxxxxxx
-      xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-      xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-        xxxxxxxxxxxxxxxxxxxxxxx
-```
+![Kshitij ASCII Art](asciify.png)
 
     </td>
-    <td width="62%" valign="top">
+    <td width="55%" valign="top">
 
 ## Kshitij
 **@kshitij-datascience · he/him**
@@ -59,15 +32,15 @@ Expected: June 2027
 
 ---
 
-### 🔥 Skills
+### 🔥 Core Skills
 
 ![Python](https://img.shields.io/badge/Python-85%25-00d9ff?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-70%25-fbbf24?style=flat)
-![ML-Scikit](https://img.shields.io/badge/ML-85%25-00d9ff?style=flat)
+![ML](https://img.shields.io/badge/Machine%20Learning-85%25-00d9ff?style=flat)
 
 **Languages:** Python, C#, SQL, Dart  
-**Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib  
-**Tools:** Git, Jupyter, VS Code, Linux
+**ML Libraries:** Pandas, NumPy, Scikit-Learn  
+**Tools:** Jupyter, Git, VS Code, Linux
 
 ---
 
@@ -94,13 +67,13 @@ Expected: June 2027
 
 | Project | Tech | Status |
 |:---|:---|:---|
-| **Jarvis Voice Assistant** | Python, NLP | In Development |
-| **SarvPrem Portal** | Flutter, Dart | Active |
-| **Data Analytics** | Python, Pandas | Building |
+| Jarvis Voice Assistant | Python, NLP | In Development |
+| SarvPrem Portal | Flutter, Dart | Active |
+| Data Analytics | Python, Pandas | Building |
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-datascience&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24&icon_color=fbbf24)](https://github.com/kshitij-datascience)
 
