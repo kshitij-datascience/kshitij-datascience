@@ -1,217 +1,216 @@
-# 🎯 KSHITIJ | DATA SCIENTIST & ML ENGINEER
+# <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00D9FF&width=500&lines=Data+Scientist+%7C+ML+Engineer+;Python+%7C+Data+Science+%7C+AI;Placement+Mode%3A+ACTIVE)
+🎯 **KSHITIJ | DATA SCIENTIST & ML ENGINEER**
 
----
+![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=fbbf24)
+![SQL](https://img.shields.io/badge/SQL-fbbf24?style=flat-square&logo=database&logoColor=00d9ff)
+![ML](https://img.shields.io/badge/Machine%20Learning-00d9ff?style=flat-square&logo=tensorflow&logoColor=fbbf24)
 
-## 👤 ASCII FACE SIGNATURE
-
-```
-.....................    .--=**#####*+==-:.    .......................
-...................  .:+*#%%%%%%%%%%%%%%%%#+=:.  .....................
-.................. .=#%@%%%%%%%%%%%%%%%%%%%%%%#=:  ...................
-................. :#@%%%%%%%%%%%%%%%%%%%%%%%#%@@%+:  .................
-................ =%@%%@@%%%%%%%%%%%%%%%%%%%%%%%%@@%+. ................
-............... =@%%@@@@@@@@@@@%%%%%%@@@@%%%%%%%%%@@#. ...............
-.............. :%%@@@@@@@@@@@@@%%%%%%##%%%%%%%%@@@@@@#: ..............
-...............*@%@@@@%##****###**********++**##%@@@%@%- .............
-............. :%%@@@#*+++===========-=========++*%@@@@@%..............
-............. =@%@%#++========--------====--====+*@@@@%@- ............
-..............*@%%%#+++=====-----------------====*%%@@@@* ............
-..............*%%@%#++++===--------------------==*%%@@@@* ............
-............. +%%@%#++====----------------------=+#%@@@@+ ............
-............. -%%%%*===------:::::-------------===#%%@@@- ............
-...............#%%#+=======------:----::::----=---+#%%@* .............
-.............. =%%*=+####%%#*+=-------=+**#**++++=-*%%@- .............
-.............. :%%++**++++*###*+===-==+++++=----==-+%@* ..............
-..............:-#%=+*##*#%%+*###+=----+#*#%*=+*+=---%%=:.............
-............. -#*#=+*##*#%%+*###+=----+#*#%*=+*+=---##==: ............
-............. :*++====++++++*+**=-----==++==--------+=:=- ............
-............. :*++==---=====++++-:::--------::------=-:=: ............
-...............=++==------===++--::----:-------:----=*=-..............
-.............. :++====----==++---:::---------:::----=+=: .............
-.............. :==++===---=+*===-:::::------::::----===. .............
-................-=+++===--=++++#+--:-=-----:::::---==-:...............
-............... ..=+++========*##+====-----:::::--=-.. ...............
-................. .+++++==++**##*+**++===--::::---=.  .................
-.................. -*++++**####**+====+=*#+--::---: ..................
-....................=*+++++*###*++=====++++=-----: ..................
-.....................=**+++++**++===-----:-------.....................
-.................... :#*****+++=====--:::-----==. ......................
-................... :+*###***++===----::----==+=+.....................
-...................:%%+*###**++===--:::::--=++==@* ....................
-...................*@#+***###**+==--:::--=======@%= ..................
-..............    =%@#+*****####*+=====+==-----+@%%-    ..............
-..........    .:-+%%%%***++*******+++==-------=@%%%#+-:.    ..........
-......    .-=*#%@%%%%%%*+++++++====----------+%@%%%%%@%#*=-.    ......
-..    .-=*#%@@@@%%%%%%%#*++======------:---=*@@%%%%%%%@%%%%%*+-.     .
-  .:=*#%%%%%%%%%%%%%%%%%#*++====---------=+#%@%%%%%%%%%%%%%%%%%%*+-:. 
-=*#%%%%%%%%%%%%%%%%%%%%%%#*+======-----=+*#%%%%%%%%%%%%%%%%%%%%%%%%%*+
-%%%%%%%%%%%%%%%%%%%%%%@@@%#*+======-==++##%%%@@%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%@@@@@@@#*=----===++*#%%%@@@@@@%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%@@@@@@@@@@@#=---====+*%%@@@@@@@@@@%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@#+====+%%%@@@%@@%%%@@@%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@#*+*%%%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%#%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
-
-*Your face, encoded in ones and zeros.* ⚡
+</div>
 
 ---
 
-## 📊 SYSTEM STATUS
+<table>
+  <tr>
+    <td width="35%" valign="top">
 
 ```
-Name:        Kshitij Gupta
-Title:       Data Scientist & ML Engineer
-Status:      Final Year BCA Student (GGDSD College, Bathinda)
-Graduation:  2027
-Location:    Chandigarh, Punjab 🇮🇳
-Mode:        PLACEMENT SEASON - ACTIVE
+,,,,,,,.,;*%S####SS?*;,..,,,,,,,
+,,,,,,.;S#############S*,.,,,,,,
+,,,,,.*@@@@@@@#########@#;.,,,,,
+,,,,.;@@@#SSSSS%%%%%%%S#@@+.,,,,
+,,,,.?@#%**+++++++++++*S@@#:.,,,
+,,,,,%@#?**++;;;;++++++?##@+.,,,
+,,,,.?@#*++;;;;;;;;;;++*#@@;.,,,
+,,,,.;@%*???*;;;;;++*+++?@%.,,,,
+,,,,.:S?%%%SSS?+;+?%?+++*@;,,,,,
+,,,,.*%*?%%%?S?;;+?%?++;+?+:.,,,
+,,,,.;?+++++**+;;;;;;;;;+++,.,,,
+,,,,.,**++;+?*;::;;;;;;;+?;.,,,,
+,,,,,,;**+++*?%+++;;;::;+;,,,,,,
+,,,,,,.;?**??%%??***;:;+:..,,,,,
+,,,,,,,.+???%%?*++**+;;:.,,,,,,,
+,,,,,,,.,%%??*+++;;:;++,,,,,,,,,
+,,,,,,.,%%%S%?++;:;;++?%.,,,,,,,
+,,....,?@??%SS?*+++++;?@*,....,,
+..,;*%S##S?*****++;;;?###S%*;:.
+*%##@@####S?*++;;;;+%@#SS#@@##%*
+#########@@S*+++++?S#@##S#######
+########@@@@#?;++*S#@@@@########
+#######@####@@#%?S@@############
+##############@#################
+###############SS###############
+################################
+################################
+##############################SS
+```
+
+    </td>
+    <td width="65%" valign="top">
+
+## 👨‍💻 KSHITIJ GUPTA
+**@kshitij-datascience**
+
+![](https://img.shields.io/badge/Status-Placement%20Season-fbbf24?style=flat-square)
+![](https://img.shields.io/badge/Mode-ACTIVE-00d9ff?style=flat-square)
+![](https://img.shields.io/badge/Graduation-2027-fbbf24?style=flat-square)
+
+---
+
+### 📍 Location & Contact
+```
+📌 Chandigarh, Punjab 🇮🇳
+🏫 GGDSD College, Bathinda
+📧 kshitijgupta290106@gmail.com
+```
+
+### 🎓 Education
+```
+Bachelor of Computer Applications (BCA)
+Final Year Student
+Expected: June 2027
 ```
 
 ---
 
-## 💻 TECH STACK MASTERY
+### 🔥 PRIMARY SKILLS
+
+![](https://img.shields.io/badge/Python-85%25-00d9ff?style=flat-square&logo=python)
+![](https://img.shields.io/badge/SQL-70%25-fbbf24?style=flat-square&logo=database)
+![](https://img.shields.io/badge/ML-85%25-00d9ff?style=flat-square)
+![](https://img.shields.io/badge/Data%20Analysis-85%25-fbbf24?style=flat-square)
+
+---
+
+### 🏆 CREDENTIALS
+
+![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-Completed-00d9ff?style=flat-square&logo=ibm)
+![Tata GenAI](https://img.shields.io/badge/Tata%20GenAI-Completed-fbbf24?style=flat-square)
+![SarvPrem](https://img.shields.io/badge/SarvPrem-Active-00d9ff?style=flat-square)
+
+---
+
+### 💼 OPEN FOR
+- Data Science Roles
+- ML Engineering Positions
+- Analytics Opportunities
+- Collaborations & Mentorship
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 TECH STACK MASTERY
 
 ### 🐍 Programming Languages
 ```
-Python        ████████░░ 85%
-C#            ███████░░░ 75%
-SQL           ██████░░░░ 70%
-Dart/Flutter  █████░░░░░ 50%
-JavaScript    ████░░░░░░ 40%
+Python         ████████░░ 85%
+C#             ███████░░░ 75%
+SQL            ██████░░░░ 70%
+Dart/Flutter   █████░░░░░ 50%
+JavaScript     ████░░░░░░ 40%
 ```
 
-### 📊 Data Science & ML
+### 📈 Data Science & ML
 ```
-Pandas        ████████░░ 85%
-NumPy         ████████░░ 85%
-Scikit-Learn  ████████░░ 85%
-TensorFlow    ██████░░░░ 70%
-Matplotlib    █████████░ 90%
-```
-
-### 🤖 ML & Analytics
-```
-Supervised ML ████████░░ 80%
-Regression    ███████░░░ 75%
-Classification ████████░░ 85%
-Feature Eng.  ██████░░░░ 70%
-Data Analysis ████████░░ 85%
+Pandas         ████████░░ 85%
+NumPy          ████████░░ 85%
+Scikit-Learn   ████████░░ 85%
+Matplotlib     █████████░ 90%
+TensorFlow     ██████░░░░ 70%
 ```
 
 ### 🛠️ Tools & Platforms
 ```
-Jupyter       █████████░ 90%
-Git/GitHub    █████████░ 95%
-VS Code       █████████░ 95%
-Linux/Bash    ████████░░ 85%
-PostgreSQL    ███████░░░ 75%
+Jupyter Notebook █████████░ 90%
+Git & GitHub     █████████░ 95%
+VS Code          █████████░ 95%
+Linux/Bash       ████████░░ 85%
+PostgreSQL       ███████░░░ 75%
 ```
 
 ---
 
-## 🏆 CREDENTIALS & CERTIFICATIONS
-
-### ✅ IBM SkillsBuild Certification
-- **Program:** AI/ML Internship (6 weeks)
-- **Organized by:** Edunet Foundation + AICTE + IBM
-- **Status:** COMPLETED ✓
-
-### ✅ Tata GenAI Analytics Simulation
-- **Program:** Advanced Analytics & AI Implementation
-- **Platform:** Forage Virtual Internship
-- **Status:** COMPLETED ✓
-
-### ⚡ SarvPrem Foundation Internship
-- **Role:** Data Science & Mobile App Development
-- **Project:** Flutter-based Internship Portal
-- **Status:** IN PROGRESS (Active)
-
----
-
-## 📈 FEATURED PROJECTS
-
-> **🔨 Projects under active development** | Building portfolio with cutting-edge ML implementations
+## 🚀 FEATURED PROJECTS
 
 ### 🎤 Jarvis Voice Assistant
-- **Tech:** Python | Speech Recognition | NLP
-- **Status:** Development Phase
-- **Features:** Voice commands, AI responses, local processing
+![Status](https://img.shields.io/badge/Status-Development-00d9ff?style=flat-square)
+
+**Technologies:** Python · Speech Recognition · NLP · AI
+- Intelligent voice-controlled system
+- Local processing & privacy-first design
+- Multi-language support planned
 
 ### 📱 SarvPrem Internship Portal
-- **Tech:** Flutter | Dart | Clean Architecture
-- **Backend:** Integration with PHP legacy system
-- **Status:** Active Development
+![Status](https://img.shields.io/badge/Status-Active%20Development-fbbf24?style=flat-square)
+
+**Technologies:** Flutter · Dart · Clean Architecture · Backend Integration
+- Modern mobile replacement for legacy PHP system
+- Internship management & tracking
+- Real-time notifications & analytics
 
 ### 📊 Data Analytics Projects
-- **Tech:** Python | Pandas | Scikit-learn | Visualization
-- **Focus:** Real-world datasets & predictive modeling
-- **Status:** Portfolio Building
+![Status](https://img.shields.io/badge/Status-Portfolio-00d9ff?style=flat-square)
 
-### 🤖 ML Models & Pipelines
-- **Tech:** TensorFlow | Advanced Algorithms | Feature Engineering
-- **Focus:** Custom models & optimization
-- **Status:** Research & Experimentation
+**Technologies:** Python · Pandas · Scikit-learn · Visualization
+- Real-world dataset analysis
+- Predictive modeling & insights
+- End-to-end ML pipeline development
 
 ---
 
-## 🎯 PLACEMENT SEASON TARGETS
+## 🎯 CAREER TRAJECTORY
 
-### Role Focus
-- Data Scientist
-- Machine Learning Engineer
-- Analytics Engineer
-- AI/ML Specialist
+### Target Roles
+```
+✓ Data Scientist
+✓ Machine Learning Engineer
+✓ Analytics Engineer
+✓ AI/ML Specialist
+```
 
 ### Target Companies
-- Product-based Tech Companies
-- Fintech & Financial Services
-- Global Capability Centers (GCCs)
-- Analytics Firms
-- Big 4 Consulting
-- IT Services (Strategic Focus)
+```
+✓ Product-based Tech Companies
+✓ Fintech & Financial Services
+✓ GCCs (Global Capability Centers)
+✓ Analytics Firms & Big 4
+✓ Strategic IT Services
+```
 
 ### Salary Expectations
-- 📈 **Starting:** ₹8-10 LPA (Target)
-- 📈 **Growth:** ₹16+ LPA (5-year goal)
+```
+📈 Starting: ₹8-10 LPA (Target)
+📈 Growth: ₹16+ LPA (5-year goal)
+```
 
 ---
 
-## 🚀 LEARNING ROADMAP
+## 📚 LEARNING ROADMAP
 
 ### Current Phase (Q1-Q2 2025)
-- Advanced Machine Learning Techniques
-- Deep Learning & Neural Networks
-- Production ML Systems
-- SQL Window Functions & Query Optimization
-- End-to-End Data Science Projects
+- ✅ Advanced Machine Learning Techniques
+- ✅ Deep Learning & Neural Networks
+- ✅ Production ML Systems
+- ✅ SQL Window Functions
+- ✅ End-to-End Projects
 
 ### Next Phase (Q2-Q3 2025)
-- NLP & Large Language Model Applications
-- Computer Vision Projects
-- MLOps & Model Deployment
-- Cloud Platforms (AWS/GCP)
-- Real-time Data Processing
+- 🎯 NLP & LLM Applications
+- 🎯 Computer Vision Projects
+- 🎯 MLOps & Model Deployment
+- 🎯 Cloud Platforms (AWS/GCP)
 
 ### Future Phase (Q3-Q4 2025+)
-- Reinforcement Learning
-- Advanced Statistical Analysis
-- Research Paper Implementation
-- Custom Framework Development
+- 🔮 Reinforcement Learning
+- 🔮 Advanced Statistical Analysis
+- 🔮 Research Paper Implementation
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GITHUB ACTIVITY
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-datascience&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d9ff&text_color=00d9ff&title_color=fbbf24&icon_color=fbbf24&hide_border=false)](https://github.com/kshitij-datascience)
 
@@ -227,11 +226,9 @@ FROM GAME DEVELOPMENT 🎮  →  TO DATA SCIENCE 📊
 Built intricate game systems with Unity + C#
 Now architecting intelligent ML pipelines with Python
 
-The fundamentals remain the same:
-  ✓ Problem-solving mindset
-  ✓ Attention to code quality
-  ✓ Obsession with optimization
-  ✓ Passion for innovation
+Problem-solving mindset remains constant
+Code quality obsession unchanged
+Optimization passion redefined
 
 Different domain. Same excellence.
 ```
@@ -240,47 +237,47 @@ Different domain. Same excellence.
 
 ## 🔗 CONNECT & COLLABORATE
 
-### Professional Links
-- 💼 **LinkedIn:** [linkedin.com/in/kshitij-data-ml](https://linkedin.com/in/kshitij-data-ml)
-- 🐙 **GitHub:** [github.com/kshitij-datascience](https://github.com/kshitij-datascience)
-- 📧 **Email:** kshitijgupta290106@gmail.com
+<div align="center">
 
-### Open For
-- ✅ Collaboration on ML/Data Science projects
-- ✅ Internship opportunities
-- ✅ Placement discussions
-- ✅ Technical mentorship
-- ✅ Open source contributions
+![LinkedIn](https://img.shields.io/badge/LinkedIn-kshitij--data--ml-00d9ff?style=for-the-badge&logo=linkedin)
+![GitHub](https://img.shields.io/badge/GitHub-kshitij--datascience-fbbf24?style=for-the-badge&logo=github)
+![Email](https://img.shields.io/badge/Email-kshitijgupta290106%40gmail.com-00d9ff?style=for-the-badge&logo=gmail)
+
+**Open for:** Collaborations · Mentorship · Placement Discussions
+
+</div>
 
 ---
 
-## 📞 QUICK COMMANDS
+## 🎮 QUICK COMMANDS
 
 ```bash
 $ whoami
 kshitij
 
-$ status --check
-✓ Learning     ✓ Building     ✓ Growing
+$ status --placement
+Mode: ACTIVE
+Ready: YES
+Excited: ALWAYS
 
-$ career_status
-Placement Mode: ACTIVE
-Ready for: Collaboration & Growth
+$ ./build_future
+Compiling data science skills...
+Linking ML algorithms...
+Optimizing career path...
+✅ Build successful!
 
-$ let's_build
-🚀 Initializing next project...
-Building ML systems with Python
-Let's ship something great together!
+$ echo "Let's build something amazing!"
+Let's build something amazing!
 ```
 
 ---
 
 <div align="center">
 
-### **🚀 Building tomorrow's AI today**
+### 🚀 **Building Tomorrow's AI Today**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kshitij-datascience&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
-**Last Updated:** July 2025 | Always Evolving ⚡
+*Last Updated: July 2025* | *Always Evolving* ⚡
 
 </div>
