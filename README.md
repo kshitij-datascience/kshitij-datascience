@@ -25,8 +25,8 @@
        #===+++*+==.:+**+****###**+**%
          *===++==-::=--=+***###**#                               Contact & Socials --------------------------------
          %====--:---=++++-:+*#***%                               Email: ................ kshitijgupta290106@gmail.com
-          %=-===---=++**********%                                LinkedIn: ............. [linkedin.com/in/kshitij-data-ml](https://linkedin.com/in/kshitij-data-ml)
-           *-:---=++++*******++%                                 GitHub: ............... [github.com/kshitij-datascience](https://github.com/kshitij-datascience)
+          %=-===---=++**********%                                LinkedIn: ............. linkedin.com/in/kshitij-data-ml
+           *-:---=++++*******++%                                 GitHub: ............... github.com/kshitij-datascience
        %+:-:::-=+++*###***==+ #                                  Interests: ............ Gaming, Content Creation
        * :---:::-=+**#*++++++ :#
     %%*...-------:-===+****+- .:#%%                              GitHub System Analytics --------------------------
